@@ -7,7 +7,8 @@ Markus Laaninen, Nevena Kulic, Jani Erola
 
 An early start to good-quality early childhood education and care (ECEC) is considered beneficial, especially for disadvantaged children’s development and educational outcomes. This assumption was tested using the latest two waves (2015 and 2018) of data from the Programme for International Student Assessment (PISA) in five countries using the Nordic model of early education and care: Denmark, Finland, Iceland, Norway, and Sweden. The article finds evidence of the overall positive association between the age of entry in ECEC and literacy at age 15 in all Nordic countries. However, the relationship is non-linear, and the highest benefits seem to occur following entry into ECEC from ages two to three. The link between family background and ECEC enrollment largely explains this association. We did not find that ECEC would generally compensate for low socioeconomic status (SES) in children’s achievement. However, the Matthew effect was observed in Norway, where an early ECEC start is more strongly associated with literacy scores for affluent children than disadvantaged children. These findings have limitations due to their correlational nature. Still, this article indicates that even in high-quality universal ECEC systems, early preschool education is not a panacea for lowering achievement gaps due to parental background.
 
-## Keywords: Nordic countries, ECEC, literacy, the Mathew effect, early start
+## Keywords: 
+Nordic countries, ECEC, literacy, the Mathew effect, early start
 
 
 ## Cite as
